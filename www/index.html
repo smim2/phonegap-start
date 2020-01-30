@@ -6,8 +6,16 @@
         <title>Test app for week 14</title>
     </head>
     <body>
-        <div class="app">
-            <h1>PhoneGap week 14</h1>
+        <div data-role="page" id="todopage"> 
+            <input type="text" name="textinput" 
+            id="addTaskText" value="" placeholder="New Task" />
+            
+            <input type="button" id="addTaskButton" value="Add Task" />
+
+            <ul data-role="listview" id="taskList">
+                <li>First Task</li>
+                <li>Second Task</li>
+            </ul> 
             
         </div>
         
