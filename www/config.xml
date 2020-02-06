@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Miles' insane app</name>
+    <name>Prototype</name>
 
     <description>
-        SLightly edited Hello World sample application that responds to the deviceready event.
+        My actual app prototype
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
